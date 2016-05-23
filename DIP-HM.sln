@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InvertImage", "InvertImage\InvertImage.vcxproj", "{AD38C672-7E52-4027-9CBE-28DD45C83B68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Histogram", "Histogram\Histogram.vcxproj", "{9180C3A9-A042-4C2A-8FBC-094C90E4998B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Filter", "Filter\Filter.vcxproj", "{A3BA4525-EC20-4412-B251-ECAD4A740B68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Morphology", "Morphology\Morphology.vcxproj", "{8D1AAA8F-041F-48F1-83B3-6D9D5AE3C1E9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Noise+Adapative", "Noise+Adapative\Noise+Adapative.vcxproj", "{78BCB675-5C7D-4650-AC47-C6614766863B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Otsu", "Otsu\Otsu.vcxproj", "{A091190B-547F-4EC6-9239-603BA5705019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD38C672-7E52-4027-9CBE-28DD45C83B68}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD38C672-7E52-4027-9CBE-28DD45C83B68}.Debug|Win32.Build.0 = Debug|Win32
+		{AD38C672-7E52-4027-9CBE-28DD45C83B68}.Release|Win32.ActiveCfg = Release|Win32
+		{AD38C672-7E52-4027-9CBE-28DD45C83B68}.Release|Win32.Build.0 = Release|Win32
+		{9180C3A9-A042-4C2A-8FBC-094C90E4998B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9180C3A9-A042-4C2A-8FBC-094C90E4998B}.Debug|Win32.Build.0 = Debug|Win32
+		{9180C3A9-A042-4C2A-8FBC-094C90E4998B}.Release|Win32.ActiveCfg = Release|Win32
+		{9180C3A9-A042-4C2A-8FBC-094C90E4998B}.Release|Win32.Build.0 = Release|Win32
+		{A3BA4525-EC20-4412-B251-ECAD4A740B68}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3BA4525-EC20-4412-B251-ECAD4A740B68}.Debug|Win32.Build.0 = Debug|Win32
+		{A3BA4525-EC20-4412-B251-ECAD4A740B68}.Release|Win32.ActiveCfg = Release|Win32
+		{A3BA4525-EC20-4412-B251-ECAD4A740B68}.Release|Win32.Build.0 = Release|Win32
+		{8D1AAA8F-041F-48F1-83B3-6D9D5AE3C1E9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8D1AAA8F-041F-48F1-83B3-6D9D5AE3C1E9}.Debug|Win32.Build.0 = Debug|Win32
+		{8D1AAA8F-041F-48F1-83B3-6D9D5AE3C1E9}.Release|Win32.ActiveCfg = Release|Win32
+		{8D1AAA8F-041F-48F1-83B3-6D9D5AE3C1E9}.Release|Win32.Build.0 = Release|Win32
+		{78BCB675-5C7D-4650-AC47-C6614766863B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{78BCB675-5C7D-4650-AC47-C6614766863B}.Debug|Win32.Build.0 = Debug|Win32
+		{78BCB675-5C7D-4650-AC47-C6614766863B}.Release|Win32.ActiveCfg = Release|Win32
+		{78BCB675-5C7D-4650-AC47-C6614766863B}.Release|Win32.Build.0 = Release|Win32
+		{A091190B-547F-4EC6-9239-603BA5705019}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A091190B-547F-4EC6-9239-603BA5705019}.Debug|Win32.Build.0 = Debug|Win32
+		{A091190B-547F-4EC6-9239-603BA5705019}.Release|Win32.ActiveCfg = Release|Win32
+		{A091190B-547F-4EC6-9239-603BA5705019}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
